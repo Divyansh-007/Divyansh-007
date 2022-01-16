@@ -1,4 +1,4 @@
-### Hi there, I'm Divyansh Jaiswal - aka Divyansh-007 👋 
+### Hi there, I'm Divyansh Jaiswal - aka [Divyansh-007][website] 👋 
 
 ## I'm an Engineer, Software Developer and Problem Solver!!
 
@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I am a Marvel Nerd and Tech Enthusiast
 
 ### Connect with me:
+[<img align="left" alt="divyansh-jaiswal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Divyansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -33,3 +34,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-007&hide=ejs)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/divyanshjaiswal/
+[website]: https://divyansh-jaiswal.netlify.app/
