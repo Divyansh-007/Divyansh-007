@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others like me
-- 🥅 2022 Goals: Increase my skill set and contribute more
+- 🥅 2023 Goals: Increase my skill set and contribute more
 - ⚡ Fun fact: I am a Marvel Nerd and Tech Enthusiast
 
 ### Connect with me:
