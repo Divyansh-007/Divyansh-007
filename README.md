@@ -1,38 +1,39 @@
-### Hi there, I'm Divyansh Jaiswal - aka Divyansh-007 👋 
+# Hi there! 👋 I'm [Divyansh Jaiswal]
 
-## I'm an Engineer, Software Developer and Problem Solver!!
+Welcome to my GitHub profile! I'm a passionate **Software Development Engineer** with nearly 3 years of experience, specializing in **backend development**. I love building scalable and efficient systems, exploring new technologies, and solving complex problems.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others like me
-- 🥅 2024 Goals: Increase my skill set and contribute more
-- ⚡ Fun fact: I am a Marvel Nerd and Tech Enthusiast
+## 🚀 About Me
 
-### Connect with me:
-[<img align="left" alt="Divyansh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🛠️ **Current Role:** Software Development Engineer (Backend) with over 2 years of experience
+- 🌱 **Learning:** Exploring cloud architecture and distributed systems
+- 👯 **Looking to collaborate on:** Open source projects and exciting tech ventures
+- 💬 **Ask me about:** Backend development, APIs, and system design
+- ⚡ **Fun fact:** When I’m not coding, you can find me binge watching series/movies or exploring new cafes
 
-<br />
+## 🔧 Technologies & Tools
 
-### Languages and Tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+## 📊 GitHub Stats
 
-<br />
-<br />
+<div align="center">
+  <div style="display: flex; justify-content: space-around; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-007&show_icons=true&theme=radical" alt="Your GitHub Stats" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-007&layout=compact&theme=radical" alt="Your Top Languages" height="180em"/>
+  </div>
+</div>
 
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyansh-007&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-007&hide=ejs)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 How to reach me
 
-[linkedin]: https://www.linkedin.com/in/divyanshjaiswal/
+- LinkedIn: [Divyansh Jaiswal](https://www.linkedin.com/in/divyanshjaiswal/)
+- Email: divyanshjais8@gmail.com
+
+Let's build something awesome together! 😊
