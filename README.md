@@ -39,6 +39,5 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer**
 ## 📫 How to reach me
 
 - LinkedIn: [Divyansh Jaiswal](https://www.linkedin.com/in/divyanshjaiswal/)
-- Email: divyanshjais8@gmail.com
 
 Let's build something awesome together! 😊
