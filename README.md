@@ -26,16 +26,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <div style="display: flex; justify-content: space-around; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-007&show_icons=true&theme=radical" alt="Your GitHub Stats" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-007&layout=compact&theme=radical" alt="Your Top Languages" height="180em"/>
-  </div>
-</div>
-
-
 ## 📫 How to reach me
 
 - LinkedIn: [Divyansh Jaiswal](https://www.linkedin.com/in/divyanshjaiswal/)
