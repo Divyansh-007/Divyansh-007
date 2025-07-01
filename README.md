@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer**
 
 ## 🚀 About Me
 
-- 🛠️ **Current Role:** Software Development Engineer (Backend) with over 3.5 years of experience
+- 🛠️ **Current Role:** Software Development Engineer (Backend) with over 3 years of experience
 - 🌱 **Learning:** Exploring cloud architecture and distributed systems
 - 👯 **Looking to collaborate on:** Open source projects and exciting tech ventures
 - 💬 **Ask me about:** Backend development, APIs, and system design
