@@ -37,7 +37,13 @@ Here are some of the npm packages I've published:
 ![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/shortify.svg)
 ![npm license](https://img.shields.io/npm/l/@developers-joyride/shortify.svg)
 
-A high-performance URL shortener library for Node.js, written in TypeScript with support for multiple databases (MongoDB, SQLite, PostgreSQL, MySQL).
+### [@developers-joyride/rate-limiter](https://www.npmjs.com/package/@developers-joyride/rate-limiter)
+
+![npm version](https://img.shields.io/npm/v/@developers-joyride/rate-limiter.svg)
+![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/rate-limiter.svg)
+![npm license](https://img.shields.io/npm/l/@developers-joyride/rate-limiter.svg)
+
+A flexible TypeScript rate limiting library with MongoDB backend, supporting Express middleware and NestJS guards/interceptors.
 
 **More packages coming soon! 🚀**
 
