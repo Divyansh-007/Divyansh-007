@@ -43,7 +43,7 @@ Here are some of the npm packages I've published:
 ![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/rate-limiter.svg)
 ![npm license](https://img.shields.io/npm/l/@developers-joyride/rate-limiter.svg)
 
-A flexible TypeScript rate limiting library with MongoDB backend, supporting Express middleware and NestJS guards/interceptors.
+A flexible TypeScript rate limiting library with MongoDB and Redis backend support, supporting Express middleware and NestJS guards/interceptors.
 
 **More packages coming soon! 🚀**
 
