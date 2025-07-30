@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm [Divyansh Jaiswal]
 
-Welcome to my GitHub profile! I'm a passionate **Software Development Engineer** with nearly 4 years of experience, specializing in **backend development**. I love building scalable and efficient systems, exploring new technologies, and solving complex problems.
+Welcome to my GitHub profile! I'm a passionate **Software Development Engineer** with more than 4 years of experience, specializing in **backend development**. I love building scalable and efficient systems, exploring new technologies, and solving complex problems.
 
 ## 🚀 About Me
 
-- 🛠️ **Current Role:** Software Development Engineer (Backend) with over 3 years of experience
+- 🛠️ **Current Role:** Software Development Engineer with over 3 years of experience in Backend
 - 🌱 **Learning:** Exploring cloud architecture and distributed systems
 - 👯 **Looking to collaborate on:** Open source projects and exciting tech ventures
 - 💬 **Ask me about:** Backend development, APIs, and system design
