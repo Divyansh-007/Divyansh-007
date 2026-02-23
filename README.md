@@ -37,6 +37,8 @@ Here are some of the npm packages I've published:
 ![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/shortify.svg)
 ![npm license](https://img.shields.io/npm/l/@developers-joyride/shortify.svg)
 
+A high-performance URL shortener library for Node.js, written in TypeScript with support for multiple databases (MongoDB, SQLite, PostgreSQL, MySQL).
+
 ### [@developers-joyride/rate-limiter](https://www.npmjs.com/package/@developers-joyride/rate-limiter)
 
 ![npm version](https://img.shields.io/npm/v/@developers-joyride/rate-limiter.svg)
@@ -44,6 +46,14 @@ Here are some of the npm packages I've published:
 ![npm license](https://img.shields.io/npm/l/@developers-joyride/rate-limiter.svg)
 
 A flexible TypeScript rate limiting library with MongoDB and Redis backend support, supporting Express middleware and NestJS guards/interceptors.
+
+### [@developers-joyride/encryptor](https://www.npmjs.com/package/@developers-joyride/encryptor)
+
+![npm version](https://img.shields.io/npm/v/@developers-joyride/encryptor.svg)
+![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/encryptor.svg)
+![npm license](https://img.shields.io/npm/l/@developers-joyride/encryptor.svg)
+
+Hybrid RSA + AES-256-GCM encryption middleware for Node applications. Provides end-to-end encryption for API requests and responses with replay attack protection.
 
 **More packages coming soon! 🚀**
 
