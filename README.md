@@ -12,13 +12,15 @@ Backend engineer with 5 years of experience, currently leading the backend team 
 
 I publish open-source npm packages, contribute to backend tooling, and document everything I build. When I'm not shipping code, I'm making tech content on YouTube or exploring new ways to break and rebuild systems.
 
-🏢 Role: Software Development Engineer II @ McKinley Rice — leading backend, mentoring juniors, driving architecture decisions
-🤖 Currently: Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations
-🌱 Transitioning into: ML/AI engineering — LLMs, agents, and applied AI systems
-📦 Open source: 3 published npm packages + a Claude Code NestJS plugin on GitHub
-📄 Published: IEEE paper on photovoltaic systems
-🎥 YouTube: @DevelopersJoyride — 💻 tech | 🎮 gaming | 🧩 puzzles | 🚀 motivation👇🏻
-📬 Open to: Remote full-time backend or AI/ML engineering roles
+|                      |                                                                                        |
+| -------------------- | -------------------------------------------------------------------------------------- |
+| 🏢 **Role**          | Software Development Engineer II @ McKinley Rice — leading backend, mentoring juniors  |
+| 🤖 **Currently**     | Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations  |
+| 🌱 **Transitioning** | ML/AI engineering — LLMs, agents, and applied AI systems                               |
+| 📦 **Open source**   | 3 published npm packages + a Claude Code NestJS plugin on GitHub                       |
+| 📄 **Published**     | IEEE paper on photovoltaic systems                                                     |
+| 🎥 **YouTube**       | [@DevelopersJoyride](https://youtube.com/@DevelopersJoyride) — tech · gaming · puzzles |
+| 📬 **Open to**       | Remote full-time backend or AI/ML engineering roles                                    |
 
 ### 🛠 Tech stack
 
@@ -70,11 +72,11 @@ Hybrid RSA + AES-256-GCM encryption middleware for Node applications. Provides e
 ### 🔨 Featured projects
 
 <p align="center">
-  <a href="https://github.com/Divyansh-007/claude-plugins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=claude-plugins&theme=github_dark&hide_border=true" />
-  </a>
   <a href="https://github.com/Divyansh-007/encryptor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=encryptor&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Divyansh-007/claude-plugins">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=claude-plugins&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
