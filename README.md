@@ -14,15 +14,15 @@ Backend engineer with 5 years of experience, currently leading the backend team 
 
 I publish open-source npm packages, contribute to backend tooling, and document everything I build. When I'm not shipping code, I'm making tech content on YouTube or exploring new ways to break and rebuild systems.
 
-|                      |                                                                                        |
-| -------------------- | -------------------------------------------------------------------------------------- |
-| 🏢 **Role**          | Software Development Engineer II @ McKinley Rice — leading backend, mentoring juniors  |
-| 🤖 **Currently**     | Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations  |
-| 🌱 **Transitioning** | ML/AI engineering — LLMs, agents, and applied AI systems                               |
-| 📦 **Open source**   | 3 published npm packages + a Claude Code NestJS plugin on GitHub                       |
-| 📄 **Published**     | IEEE paper on photovoltaic systems                                                     |
-| 🎥 **YouTube**       | [@DevelopersJoyride](https://youtube.com/@DevelopersJoyride) — tech · gaming · puzzles |
-| 📬 **Open to**       | Remote full-time backend or AI/ML engineering roles                                    |
+|                      |                                                                                                           |
+| -------------------- | --------------------------------------------------------------------------------------------------------- |
+| 🏢 **Role**          | Software Development Engineer II @ McKinley Rice — leading backend, mentoring juniors                     |
+| 🤖 **Currently**     | Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations                     |
+| 🌱 **Transitioning** | ML/AI engineering — LLMs, agents, and applied AI systems                                                  |
+| 📦 **Open source**   | 3 published npm packages + a Claude Code NestJS plugin on GitHub                                          |
+| 📄 **Published**     | IEEE paper on photovoltaic systems                                                                        |
+| 🎥 **YouTube**       | [@DevelopersJoyride](https://youtube.com/@DevelopersJoyride) — 💻 tech 🎮 gaming 🧩 puzzles 🚀 motivation |
+| 📬 **Open to**       | Remote full-time backend or AI/ML engineering roles                                                       |
 
 ---
 
@@ -54,11 +54,33 @@ I publish open-source npm packages, contribute to backend tooling, and document 
 
 ### 📦 Open source — npm packages
 
-| Package                                                                                            | What it does                                                                                           |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [@developers-joyride/encryptor](https://www.npmjs.com/package/@developers-joyride/encryptor)       | Hybrid RSA + AES-256-GCM encryption middleware — end-to-end API encryption with replay protection      |
-| [@developers-joyride/rate-limiter](https://www.npmjs.com/package/@developers-joyride/rate-limiter) | Flexible rate limiting with MongoDB/Redis backend, Express middleware + NestJS guard support           |
-| [@developers-joyride/shortify](https://www.npmjs.com/package/@developers-joyride/shortify)         | High-performance URL shortener for Node.js — TypeScript, multi-DB (MongoDB, MySQL, PostgreSQL, SQLite) |
+Here are some of the npm packages I've published:
+
+### [@developers-joyride/encryptor](https://www.npmjs.com/package/@developers-joyride/encryptor)
+
+![npm version](https://img.shields.io/npm/v/@developers-joyride/encryptor.svg)
+![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/encryptor.svg)
+![npm license](https://img.shields.io/npm/l/@developers-joyride/encryptor.svg)
+
+Hybrid RSA + AES-256-GCM encryption middleware for Node applications. Provides end-to-end encryption for API requests and responses with replay attack protection.
+
+### [@developers-joyride/rate-limiter](https://www.npmjs.com/package/@developers-joyride/rate-limiter)
+
+![npm version](https://img.shields.io/npm/v/@developers-joyride/rate-limiter.svg)
+![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/rate-limiter.svg)
+![npm license](https://img.shields.io/npm/l/@developers-joyride/rate-limiter.svg)
+
+A flexible TypeScript rate limiting library with MongoDB and Redis backend support, supporting Express middleware and NestJS guards/interceptors.
+
+### [@developers-joyride/shortify](https://www.npmjs.com/package/@developers-joyride/shortify)
+
+![npm version](https://img.shields.io/npm/v/@developers-joyride/shortify.svg)
+![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/shortify.svg)
+![npm license](https://img.shields.io/npm/l/@developers-joyride/shortify.svg)
+
+A high-performance URL shortener library for Node.js, written in TypeScript with support for multiple databases (MongoDB, SQLite, PostgreSQL, MySQL).
+
+**More packages coming soon! 🚀**
 
 ---
 
