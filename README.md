@@ -28,10 +28,6 @@ I publish open-source npm packages, contribute to backend tooling, and document 
   <img src="https://skillicons.dev/icons?i=java,python,git,github&theme=dark" />
 </p>
 
-### 📊 GitHub stats
-
-=======
-
 ### [@developers-joyride/rate-limiter](https://www.npmjs.com/package/@developers-joyride/rate-limiter)
 
 ![npm version](https://img.shields.io/npm/v/@developers-joyride/rate-limiter.svg)
@@ -49,8 +45,6 @@ A flexible TypeScript rate limiting library with MongoDB and Redis backend suppo
 Hybrid RSA + AES-256-GCM encryption middleware for Node applications. Provides end-to-end encryption for API requests and responses with replay attack protection.
 
 **More packages coming soon! 🚀**
-
-> > > > > > > 9f9e037cfd6de5c2879f8eb16aa72ed77fe00aac
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Divyansh-007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
@@ -76,10 +70,10 @@ Hybrid RSA + AES-256-GCM encryption middleware for Node applications. Provides e
 ### 🔨 Featured projects
 
 <p align="center">
-  <a href="https://github.com/Divyansh-007/nestjs-backend-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=nestjs-backend-toolkit&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/Divyansh-007/claude-plugins">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=claude-plugins&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/developers-joyride/encryptor">
+  <a href="https://github.com/Divyansh-007/encryptor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=encryptor&theme=github_dark&hide_border=true" />
   </a>
 </p>
