@@ -6,27 +6,19 @@
   <a href="https://www.npmjs.com/~developers-joyride"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&width=650&lines=Backend+%2B+AI+Engineer+%F0%9F%9A%80;NestJS+%7C+Node.js+%7C+TypeScript+%7C+AWS;Team+Lead+%40+McKinley+Rice;Building+open+source+tools+%26+AI+systems" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### Hey, I'm Divyansh 👋
+Hey, I'm Divyansh 👋
 
 Backend engineer with 5 years of experience, currently leading the backend team at McKinley Rice. I specialize in building scalable APIs and distributed systems using Node.js, NestJS, and TypeScript — and I'm actively transitioning into ML/AI engineering.
 
 I publish open-source npm packages, contribute to backend tooling, and document everything I build. When I'm not shipping code, I'm making tech content on YouTube or exploring new ways to break and rebuild systems.
 
-- 🏢 **Role:** Software Development Engineer II @ McKinley Rice — leading backend, mentoring juniors, driving architecture decisions
-- 🤖 **Currently:** Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations
-- 🌱 **Transitioning into:** ML/AI engineering — LLMs, agents, and applied AI systems
-- 📦 **Open source:** 3 published npm packages + a Claude Code NestJS plugin on GitHub
-- 📄 **Published:** IEEE paper on photovoltaic systems
-- 🎥 **YouTube:** [@DevelopersJoyride](https://youtube.com/@DevelopersJoyride) — backend dev, tech, and system design
-- 📬 **Open to:** Remote full-time backend or AI/ML engineering roles
+🏢 Role: Software Development Engineer II @ McKinley Rice — leading backend, mentoring juniors, driving architecture decisions
+🤖 Currently: Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations
+🌱 Transitioning into: ML/AI engineering — LLMs, agents, and applied AI systems
+📦 Open source: 3 published npm packages + a Claude Code NestJS plugin on GitHub
+📄 Published: IEEE paper on photovoltaic systems
+🎥 YouTube: @DevelopersJoyride — 💻 tech | 🎮 gaming | 🧩 puzzles | 🚀 motivation👇🏻
+📬 Open to: Remote full-time backend or AI/ML engineering roles
 
 ---
 
@@ -40,7 +32,31 @@ I publish open-source npm packages, contribute to backend tooling, and document 
 
 ---
 
+<<<<<<< HEAD
+
 ### 📊 GitHub stats
+
+=======
+
+### [@developers-joyride/rate-limiter](https://www.npmjs.com/package/@developers-joyride/rate-limiter)
+
+![npm version](https://img.shields.io/npm/v/@developers-joyride/rate-limiter.svg)
+![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/rate-limiter.svg)
+![npm license](https://img.shields.io/npm/l/@developers-joyride/rate-limiter.svg)
+
+A flexible TypeScript rate limiting library with MongoDB and Redis backend support, supporting Express middleware and NestJS guards/interceptors.
+
+### [@developers-joyride/encryptor](https://www.npmjs.com/package/@developers-joyride/encryptor)
+
+![npm version](https://img.shields.io/npm/v/@developers-joyride/encryptor.svg)
+![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/encryptor.svg)
+![npm license](https://img.shields.io/npm/l/@developers-joyride/encryptor.svg)
+
+Hybrid RSA + AES-256-GCM encryption middleware for Node applications. Provides end-to-end encryption for API requests and responses with replay attack protection.
+
+**More packages coming soon! 🚀**
+
+> > > > > > > 9f9e037cfd6de5c2879f8eb16aa72ed77fe00aac
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Divyansh-007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
