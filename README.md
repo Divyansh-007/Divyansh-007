@@ -1,48 +1,99 @@
-# Hi there! 👋 I'm [Divyansh Jaiswal]
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divyansh-007&style=flat-square&color=0EA5E9&label=Profile+Views" />
+  <a href="https://linkedin.com/in/divyanshjaiswal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://divyansh-jaiswal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" /></a>
+  <a href="https://youtube.com/@DevelopersJoyride"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/~developers-joyride"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate **Software Development Engineer** with nearly 4 years of experience, specializing in **backend development**. I love building scalable and efficient systems, exploring new technologies, and solving complex problems.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0EA5E9&center=true&width=650&lines=Backend+%2B+AI+Engineer+%F0%9F%9A%80;NestJS+%7C+Node.js+%7C+TypeScript+%7C+AWS;Team+Lead+%40+McKinley+Rice;Building+open+source+tools+%26+AI+systems" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🚀 About Me
+---
 
-- 🛠️ **Current Role:** Software Development Engineer (Backend) with over 3 years of experience
-- 🌱 **Learning:** Exploring cloud architecture and distributed systems
-- 👯 **Looking to collaborate on:** Open source projects and exciting tech ventures
-- 💬 **Ask me about:** Backend development, APIs, and system design
-- ⚡ **Fun fact:** When I'm not coding, you can find me binge-watching series/movies or exploring new cafes
+### Hey, I'm Divyansh 👋
 
-## 🔧 Technologies & Tools
+Backend engineer with 5 years of experience, currently leading the backend team at McKinley Rice. I specialize in building scalable APIs and distributed systems using Node.js, NestJS, and TypeScript — and I'm actively transitioning into ML/AI engineering.
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I publish open-source npm packages, contribute to backend tooling, and document everything I build. When I'm not shipping code, I'm making tech content on YouTube or exploring new ways to break and rebuild systems.
 
-## 📦 NPM Packages
+- 🏢 **Role:** Software Development Engineer II @ McKinley Rice — leading backend, mentoring juniors, driving architecture decisions
+- 🤖 **Currently:** Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations
+- 🌱 **Transitioning into:** ML/AI engineering — LLMs, agents, and applied AI systems
+- 📦 **Open source:** 3 published npm packages + a Claude Code NestJS plugin on GitHub
+- 📄 **Published:** IEEE paper on photovoltaic systems
+- 🎥 **YouTube:** [@DevelopersJoyride](https://youtube.com/@DevelopersJoyride) — backend dev, tech, and system design
+- 📬 **Open to:** Remote full-time backend or AI/ML engineering roles
 
-Here are some of the npm packages I've published:
+---
 
-### [@developers-joyride/shortify](https://www.npmjs.com/package/@developers-joyride/shortify)
+### 🛠 Tech stack
 
-![npm version](https://img.shields.io/npm/v/@developers-joyride/shortify.svg)
-![npm downloads](https://img.shields.io/npm/dm/@developers-joyride/shortify.svg)
-![npm license](https://img.shields.io/npm/l/@developers-joyride/shortify.svg)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,express&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,linux&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github&theme=dark" />
+</p>
 
-A high-performance URL shortener library for Node.js, written in TypeScript with support for multiple databases (MongoDB, SQLite, PostgreSQL, MySQL).
+---
 
-**More packages coming soon! 🚀**
+### 📊 GitHub stats
 
-## 📫 How to reach me
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Divyansh-007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Divyansh-007&theme=github-dark-blue&hide_border=true" />
+</p>
 
-- LinkedIn: [Divyansh Jaiswal](https://www.linkedin.com/in/divyanshjaiswal/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-007&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,shell" />
+</p>
 
-Let's build something awesome together! 😊
+---
+
+### 📦 Open source — npm packages
+
+| Package                                                                                            | What it does                                                                                           |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [@developers-joyride/encryptor](https://www.npmjs.com/package/@developers-joyride/encryptor)       | Hybrid RSA + AES-256-GCM encryption middleware — end-to-end API encryption with replay protection      |
+| [@developers-joyride/rate-limiter](https://www.npmjs.com/package/@developers-joyride/rate-limiter) | Flexible rate limiting with MongoDB/Redis backend, Express middleware + NestJS guard support           |
+| [@developers-joyride/shortify](https://www.npmjs.com/package/@developers-joyride/shortify)         | High-performance URL shortener for Node.js — TypeScript, multi-DB (MongoDB, MySQL, PostgreSQL, SQLite) |
+
+---
+
+### 🔨 Featured projects
+
+<p align="center">
+  <a href="https://github.com/Divyansh-007/nestjs-backend-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=nestjs-backend-toolkit&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/developers-joyride/encryptor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=developers-joyride&repo=encryptor&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyansh-007/Divyansh-007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyansh-007/Divyansh-007/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Divyansh-007/Divyansh-007/output/github-snake.svg" />
+</picture>
+
+---
+
+### ⏱ This week I coded
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<p align="center">
+  <i>Open to remote full-time backend or AI/ML roles — let's build something.</i><br/>
+  <a href="mailto:divyanshjais8@gmail.com">divyanshjais8@gmail.com</a> · <a href="https://linkedin.com/in/divyanshjaiswal">LinkedIn</a> · <a href="https://divyansh-jaiswal.netlify.app/">Portfolio</a>
+</p>
