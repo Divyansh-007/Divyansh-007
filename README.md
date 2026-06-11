@@ -20,8 +20,6 @@ I publish open-source npm packages, contribute to backend tooling, and document 
 🎥 YouTube: @DevelopersJoyride — 💻 tech | 🎮 gaming | 🧩 puzzles | 🚀 motivation👇🏻
 📬 Open to: Remote full-time backend or AI/ML engineering roles
 
----
-
 ### 🛠 Tech stack
 
 <p align="center">
@@ -29,10 +27,6 @@ I publish open-source npm packages, contribute to backend tooling, and document 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,linux&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=java,python,git,github&theme=dark" />
 </p>
-
----
-
-<<<<<<< HEAD
 
 ### 📊 GitHub stats
 
@@ -86,7 +80,7 @@ Hybrid RSA + AES-256-GCM encryption middleware for Node applications. Provides e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=nestjs-backend-toolkit&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/developers-joyride/encryptor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=developers-joyride&repo=encryptor&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=encryptor&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
