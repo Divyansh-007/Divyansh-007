@@ -84,19 +84,6 @@ A high-performance URL shortener library for Node.js, written in TypeScript with
 
 ---
 
-### 🔨 Featured projects
-
-<p align="center">
-  <a href="https://github.com/Divyansh-007/encryptor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=encryptor&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Divyansh-007/claude-plugins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Divyansh-007&repo=claude-plugins&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 🐍 Contribution activity
 
 <picture>
