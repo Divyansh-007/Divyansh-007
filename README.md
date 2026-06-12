@@ -96,7 +96,7 @@ A high-performance URL shortener library for Node.js, written in TypeScript with
 
 ---
 
-### ⏱ This month I coded
+### ⏱ This week I coded
 
 <!--START_SECTION:waka-->
 
