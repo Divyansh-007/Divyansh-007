@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Divyansh-007&style=flat-square&color=0EA5E9&label=Profile+Views" />
   <a href="https://linkedin.com/in/divyanshjaiswal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://divyansh-jaiswal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" /></a>
-  <a href="https://youtube.com/@DevelopersJoyride"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="https://www.npmjs.com/~developers-joyride"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 </p>
 
@@ -12,7 +11,7 @@ Hey, I'm Divyansh 👋
 
 Backend engineer with 5 years of experience, currently leading the backend team at McKinley Rice. I specialize in building scalable APIs and distributed systems using Node.js, NestJS, and TypeScript — and I'm actively transitioning into ML/AI engineering.
 
-I publish open-source npm packages, contribute to backend tooling, and document everything I build. When I'm not shipping code, I'm making tech content on YouTube or exploring new ways to break and rebuild systems.
+I publish open-source npm packages, contribute to backend tooling, and document everything I build. When I'm not shipping code, I'm making tech content or exploring new ways to break and rebuild systems.
 
 |                      |                                                                                                           |
 | -------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -21,7 +20,6 @@ I publish open-source npm packages, contribute to backend tooling, and document 
 | 🌱 **Transitioning** | ML/AI engineering — LLMs, agents, and applied AI systems                                                  |
 | 📦 **Open source**   | 3 published npm packages + a Claude Code NestJS plugin on GitHub                                          |
 | 📄 **Published**     | IEEE paper on photovoltaic systems                                                                        |
-| 🎥 **YouTube**       | [@DevelopersJoyride](https://youtube.com/@DevelopersJoyride) — 💻 tech 🎮 gaming 🧩 puzzles 🚀 motivation |
 | 📬 **Open to**       | Remote full-time backend or AI/ML engineering roles                                                       |
 
 ---
