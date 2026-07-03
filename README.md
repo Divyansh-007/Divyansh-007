@@ -99,15 +99,15 @@ A high-performance URL shortener library for Node.js, written in TypeScript with
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2026 - To: 01 July 2026
+From: 25 June 2026 - To: 02 July 2026
 
-Total Time: 23 hrs 41 mins
+Total Time: 22 hrs 25 mins
 
-TypeScript   10 hrs 55 mins        ███████████▒░░░░░░░░░░░░░   45.92 %
-HTML         52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-SQL          49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Prisma       41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Docker       7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   9 hrs 25 mins         ██████████▒░░░░░░░░░░░░░░   41.87 %
+HTML         54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+SQL          49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Prisma       41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Docker       8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
