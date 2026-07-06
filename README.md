@@ -38,20 +38,6 @@ I publish open-source npm packages, contribute to backend tooling, and document 
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Divyansh-007&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-007&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,shell" />
-</p>
-
----
-
 ### 📦 Open source — npm packages
 
 Here are some of the npm packages I've published:
