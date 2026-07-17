@@ -78,23 +78,6 @@ A high-performance URL shortener library for Node.js, written in TypeScript with
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Divyansh-007/Divyansh-007/output/github-snake.svg" />
 </picture>
 
----
-
-### ⏱ This week I coded
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 08 July 2026 - To: 15 July 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
 
 <p align="center">
   <i>Open to remote full-time backend or AI/ML roles — let's build something.</i><br/>
