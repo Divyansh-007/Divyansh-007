@@ -70,15 +70,6 @@ A high-performance URL shortener library for Node.js, written in TypeScript with
 
 ---
 
-### 🐍 Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyansh-007/Divyansh-007/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyansh-007/Divyansh-007/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Divyansh-007/Divyansh-007/output/github-snake.svg" />
-</picture>
-
-
 <p align="center">
   <i>Open to remote full-time backend or AI/ML roles — let's build something.</i><br/>
   <a href="mailto:divyanshjais8@gmail.com">divyanshjais8@gmail.com</a> · <a href="https://linkedin.com/in/divyanshjaiswal">LinkedIn</a> · <a href="https://divyansh-jaiswal.netlify.app/">Portfolio</a>
