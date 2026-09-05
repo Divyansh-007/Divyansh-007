@@ -15,7 +15,6 @@ I publish open-source npm packages, contribute to backend tooling, and document 
 
 |                      |                                                                                                           |
 | -------------------- | --------------------------------------------------------------------------------------------------------- |
-| 🏢 **Role**          | Software Development Engineer II @ McKinley Rice — leading backend, mentoring juniors                     |
 | 🤖 **Currently**     | Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations                     |
 | 🌱 **Transitioning** | ML/AI engineering — LLMs, agents, and applied AI systems                                                  |
 | 📦 **Open source**   | 3 published npm packages + a Claude Code NestJS plugin on GitHub                                          |
