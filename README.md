@@ -72,6 +72,20 @@ A high-performance URL shortener library for Node.js, written in TypeScript with
 ### ⏱ This week I coded
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 30 August 2026 - To: 06 September 2026
+
+Total Time: 6 hrs 44 mins
+
+TypeScript   1 hr 26 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+Git Config   16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+HTML         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Other        10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Docker       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
