@@ -9,7 +9,7 @@
 
 Hey, I'm Divyansh 👋
 
-Backend engineer with 5 years of experience, currently leading the backend team at McKinley Rice. I specialize in building scalable APIs and distributed systems using Node.js, NestJS, and TypeScript — and I'm actively transitioning into ML/AI engineering.
+Full-stack engineer with 5 years of experience. I specialize in building scalable APIs and distributed systems using Node.js, NestJS, and TypeScript — and I'm actively transitioning into ML/AI engineering.
 
 I publish open-source npm packages, contribute to backend tooling, and document everything I build. When I'm not shipping code, I'm making tech content or exploring new ways to break and rebuild systems.
 
@@ -66,6 +66,13 @@ A flexible TypeScript rate limiting library with MongoDB and Redis backend suppo
 A high-performance URL shortener library for Node.js, written in TypeScript with support for multiple databases (MongoDB, SQLite, PostgreSQL, MySQL).
 
 **More packages coming soon! 🚀**
+
+---
+
+### ⏱ This week I coded
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
