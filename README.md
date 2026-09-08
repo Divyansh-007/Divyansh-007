@@ -17,7 +17,7 @@ I publish open-source npm packages, contribute to backend tooling, and document 
 | -------------------- | --------------------------------------------------------------------------------------------------------- |
 | 🤖 **Currently**     | Deep-diving into Claude Code, building AI-native backend tooling and MCP integrations                     |
 | 🌱 **Transitioning** | ML/AI engineering — LLMs, agents, and applied AI systems                                                  |
-| 📦 **Open source**   | 3 published npm packages + a Claude Code NestJS plugin on GitHub                                          |
+| 📦 **Open source**   | 3 npm packages, a Claude Code plugin, and a Swiggy MCP server — all open source on GitHub                 |
 | 📄 **Published**     | IEEE paper on photovoltaic systems                                                                        |
 | 📬 **Open to**       | Remote full-time backend or AI/ML engineering roles                                                       |
 
@@ -37,9 +37,24 @@ I publish open-source npm packages, contribute to backend tooling, and document 
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-### 📦 Open source — npm packages
+### 📦 Open source
 
-Here are some of the npm packages I've published:
+A mix of published npm packages, a Claude Code plugin, and an MCP agent — all open source on GitHub:
+
+### [swiggy-smart-order-agent](https://github.com/Divyansh-007/swiggy-smart-order-agent)
+
+![GitHub stars](https://img.shields.io/github/stars/Divyansh-007/swiggy-smart-order-agent?style=flat&logo=github)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-D97757?style=flat&logo=anthropic&logoColor=white)
+
+An MCP server that reads your real Swiggy order history and hands you two short lists — your usuals to re-order and new places to try — ranked deterministically by frequency, recency, and price. Runs as a local MCP server for Claude (or a REST API), with real Swiggy OAuth or fully offline mock data.
+
+### [nestjs-toolkit — claude-plugins](https://github.com/Divyansh-007/claude-plugins)
+
+![GitHub stars](https://img.shields.io/github/stars/Divyansh-007/claude-plugins?style=flat&logo=github)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
+A Claude Code plugin that bundles reusable rules, skills, agents, hooks, and MCP integration to supercharge NestJS + MongoDB backend workflows with AI assistance.
 
 ### [@developers-joyride/encryptor](https://www.npmjs.com/package/@developers-joyride/encryptor)
 
