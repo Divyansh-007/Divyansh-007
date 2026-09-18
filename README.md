@@ -84,22 +84,6 @@ A high-performance URL shortener library for Node.js, written in TypeScript with
 
 ---
 
-### ⏱ This week I coded
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 05 September 2026 - To: 12 September 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
 <p align="center">
   <i>Open to remote full-time backend or AI/ML roles — let's build something.</i><br/>
   <a href="mailto:divyanshjais8@gmail.com">divyanshjais8@gmail.com</a> · <a href="https://linkedin.com/in/divyanshjaiswal">LinkedIn</a> · <a href="https://divyansh-jaiswal.netlify.app/">Portfolio</a>
